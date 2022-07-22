@@ -1,7 +1,6 @@
-### Hi there 👋
-### 👋 Hi, I’m Mayank Aggarwal
-### 👀 I’m a beginner
-### 🌱 I’m currently working on my DSA skills
+### ➡👋 Hi, I’m Mayank Aggarwal
+### ➡👀 I’m a beginner
+### ➡🌱 I’m currently working on my DSA skills
 
 <!--
 **mayank-0407/mayank-0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
