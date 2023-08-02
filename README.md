@@ -5,15 +5,4 @@
 ### ➡🤔 I’m looking for help with Backend Web Development
 ### ➡📫 How to reach me: https://mayank-0407.github.io
 
-<!--
-**mayank-0407/mayank-0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayank-0407&theme=dark&border_radius=4)](https://git.io/streak-stats)
