@@ -5,4 +5,4 @@
 ### ➡🤔 I’m looking for help with Backend Web Development
 ### ➡📫 How to reach me: https://mayank-0407.github.io
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayank-0407&theme=dark&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayank-0407&theme=dark&border_radius=4)](https://git.io/streak-stats)
