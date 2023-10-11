@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-0407&show_icons=true&locale=en" alt="mayank-0407" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-0407&" alt="mayank-0407" /></p>
+
+[![An image of @mayank0407's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank0407)](https://holopin.io/@mayank0407)
