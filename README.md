@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/mayank_2036" target="blank"><img src="https://img.shields.io/twitter/follow/mayank_2036?logo=twitter&style=for-the-badge" alt="mayank_2036" /></a> </p>
 
-- 🔭 I’m currently working on [Astraeus Bot](https://github.com/mayank-0407/Astraeus-Bot)
+- 🔭 I’m currently working on [BtVault](https://github.com/mayank-0407/BitVault-Web3)
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **React, Node and Solidity(Web3)**
 
 - 🤝 I’m looking for help with **Open Source**
 
