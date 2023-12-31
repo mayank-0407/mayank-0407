@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayank_2036" target="blank"><img src="https://img.shields.io/twitter/follow/mayank_2036?logo=twitter&style=for-the-badge" alt="mayank_2036" /></a> </p>
 
-- 🔭 I’m currently working on [BtFunding](https://github.com/mayank-0407/BitFunding-Web3)
+- 🔭 I’m currently working on [BtFunding](https://github.com/mayank-0407/BitFunding-Web3) .
 
 - 🌱 I’m currently learning **React, Node and Solidity(Web3)**
 
