@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://mayankaggarwal.live/](https://mayankaggarwal.live/)
+- 👨‍💻 All of my projects are available at [https://mayankaggarwal.tech/](https://mayankaggarwal.tech/)
 
-- 📝 I regularly write articles on [https://blog.mayankaggarwal.live/](https://blog.mayankaggarwal.live/)
+- 📝 I regularly write articles on [https://blog.mayankaggarwal.tech/](https://blog.mayankaggarwal.tech/)
 
 - 💬 Ask me about **Django**
 
