@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **mayankdatabase04@gmail.com**
+- 📫 How to reach me **mayank@mayankaggarwal.tech**
 
 - 📄 Know about my experiences [https://github.com/mayank-0407/mayank-0407/blob/main/My_cv.pdf](https://github.com/mayank-0407/mayank-0407/blob/main/My_cv.pdf)
 
