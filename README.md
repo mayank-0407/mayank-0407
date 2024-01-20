@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mayankaggarwal.tech/](https://mayankaggarwal.tech/)
 
-- 📝 I regularly write articles on [https://blog.mayankaggarwal.tech/](https://blog.mayankaggarwal.tech/)
+- 📝 I regularly write articles on [https://blog.mayankaggarwal.tech/](https://blogsbymayank.hashnode.dev/)
 
 - 💬 Ask me about **Django**
 
