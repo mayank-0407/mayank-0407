@@ -7,7 +7,7 @@
 
 - 🔭 PA@GSSOC'24 AntiCorrupto
 
-- 🌱 I’m currently learning **React, Node and Solidity(Web3)**
+- 🌱 I’m currently learning **Typescript**
 
 - 🤝 I’m looking for help with **Open Source**
 
