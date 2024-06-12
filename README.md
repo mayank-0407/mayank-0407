@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/mayank_2036" target="blank"><img src="https://img.shields.io/twitter/follow/mayank_2036?logo=twitter&style=for-the-badge" alt="mayank_2036" /></a> </p>
 
 
-- 🔭 PA@GSSOC'24 AntiCorrupto
+- 🔭 Contributer@TSOC'24, PA@GSSOC'24-AntiCorrupto
 
 - 🌱 I’m currently learning **Typescript**
 
