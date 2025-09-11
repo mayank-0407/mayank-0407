@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://mayankaggarwal.tech/](https://mayankaggarwal.tech/)
+- 👨‍💻 All of my projects are available at [https://mayankaggarwal.tech/](https://mayank-0407.github.io)
 
 - 📝 I regularly write articles on [https://blog.mayankaggarwal.tech/](https://blogsbymayank.hashnode.dev/)
 
