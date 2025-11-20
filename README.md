@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Aggarwal</h1>
-<h3 align="center">Full Stack & Web3 Developer | Open Source Contributor | Technical Writer</h3>
+<h3 align="center">Full Stack & Web3 Developer | Technical Writer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayank-0407&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-0407" />
@@ -15,12 +15,12 @@
 
 ### 👨‍💻 About Me  
 
-- 🔭 **Currently:** Software Engineer Trainee @ **Mphasis** | Mentor @ **GSSOC-EXT, VSOC**  
+- 🔭 **Currently:** Software Engineer @ **Mphasis** 
 - 🌱 Learning & Building with **TypeScript, WebSockets, and Advanced System Design**  
 - 🤝 Actively contributing to **Open Source & Dev Communities**  
 - 👨‍💻 Check out my projects: [Portfolio](https://mayank-0407.github.io)  
 - 📝 Writing tech blogs: [Hashnode](https://blogsbymayank.hashnode.dev/) | [Blog Site](https://blog.mayankaggarwal.tech)  
-- 💬 Ask me about **MERN, Django, Web3, and Problem-Solving**  
+- 💬 Ask me about **MERN, Django, Web3, Problem-Solving and Ex-Mentor @ **GSSOC-EXT, VSOC**  
 - 📄 My Resume: [Download CV](https://github.com/mayank-0407/mayank-0407/blob/main/My_cv.pdf)  
 - 📫 Reach me at **mayankdatabase04@gmail.com**  
 
